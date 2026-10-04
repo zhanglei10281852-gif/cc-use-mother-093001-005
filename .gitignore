@@ -10,3 +10,9 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 本地 SQLite 数据
+data/
+*.db
+*.db-wal
+*.db-shm
